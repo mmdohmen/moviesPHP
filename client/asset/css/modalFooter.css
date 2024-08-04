@@ -1,0 +1,32 @@
+
+
+/* .modal-container{
+    -webkit-box-shadow: 0px 0px 11px 3px rgba(255, 255, 255, 0.603);
+    -moz-box-shadow: 0px 0px 11px 3px rgba(255,255,255,0.603);
+    box-shadow: 0px 0px 11px 3px rgba(255,255,255,0.603);
+} */
+
+.modal-content {
+    margin-top: 100px;
+ }
+
+.modal-header{
+    background-color: rgb(0, 105, 197);
+    color: whitesmoke;
+}
+
+.modal-body{
+    color: rgb(0, 105, 197);
+}
+
+/* .modal-footer{
+    background-color: rgb(0, 105, 197);
+} */
+
+@media (max-width: 768px) {
+    .modal-content {
+       margin-top: 300px;
+    }
+}
+
+

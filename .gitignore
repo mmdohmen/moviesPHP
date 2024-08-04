@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración de entorno
+.env
+.idea
+
+# Ignorar directorios de dependencias
+node_modules/
+dist/
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar todos los archivos dentro de client/asset/json
+client/asset/json/
+
+#Ignorar archivo generado por VSCode
+.idea
+.vscode
+
